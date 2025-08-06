@@ -51,5 +51,6 @@ streamlit run streamlit_app.py
 🤝 Contact
 Have questions, ideas, or want to collaborate?
 
-📧 support@bishtify.com
-📺 Bishtify - Let’s build skills — not just resumes. 🚀
+🤝 Connect With Me - 📧 [Click here](https://topmate.io/pradeep_singh_bisht)
+🔗 Get Bishtified with:
+Bishtify - Let’s build skills — not just resumes! 🚀
