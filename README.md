@@ -47,6 +47,7 @@ Example: Streamlit Car Price Predictor
 cd car-price-predictor/
 pip install -r requirements.txt
 streamlit run streamlit_app.py
+```
 
 🤝 Contact
 Have questions, ideas, or want to collaborate?
