@@ -25,6 +25,18 @@ and more..
 
 ---
 
+## 🚀 How to Run a Sample Project
+
+Example: Streamlit Car Price Predictor
+
+```bash
+cd car-price-predictor/
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
+
+---
+
 ## 🎥 Learn With YouTube Tutorials
 
 Each project is **explained step-by-step** on YouTube with visuals and walkthroughs:
@@ -36,21 +48,6 @@ Each project is **explained step-by-step** on YouTube with visuals and walkthrou
 
 📩 **Request access (paid):**  
 📧 `support@bishtify.com`
-
----
-
-## 🚀 How to Run a Sample Project
-
-Example: Streamlit Car Price Predictor
-
-```bash
-cd car-price-predictor/
-pip install -r requirements.txt
-streamlit run streamlit_app.py
-```
-
-🤝 Contact
-Have questions, ideas, or want to collaborate?
 
 🤝 Connect With Me - 📧 [Click here](https://topmate.io/pradeep_singh_bisht)
 🔗 Get Bishtified with:
