@@ -46,7 +46,7 @@ Each project is **explained step-by-step** on YouTube with visuals and walkthrou
 
 ---
 
-📩 **Request access (paid):**  
+📩 **Contact:**  
 📧 `support@bishtify.com`
 
 🤝 Connect With Me - 📧 [Click here](https://topmate.io/pradeep_singh_bisht)
