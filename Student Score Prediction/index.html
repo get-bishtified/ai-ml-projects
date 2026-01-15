@@ -1,0 +1,11 @@
+<h2>Student Score Predictor</h2>
+
+<form method="post">
+  Hours Studied: <input name="hours" required><br><br>
+  Attendance (%): <input name="attendance" required><br><br>
+  <button type="submit">Predict Score</button>
+</form>
+
+{% if result %}
+  <h3>Predicted Score: {{ result }}</h3>
+{% endif %}
