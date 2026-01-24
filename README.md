@@ -10,9 +10,10 @@ Welcome to a curated set of **end-to-end AI/ML projects**, built for learners, p
 
 | Project | Description |
 |--------|-------------|
-| `car-price-predictor/` | Supervised regression using linear models with Streamlit frontend |
-| `meal-recommender/` | Content-based recommendation system using pantry items |
-and more..
+| `Car Price Prediction/` | Supervised regression using linear models with Streamlit frontend |
+| `Meal Recommendation/` | Content-based recommendation system using pantry items |
+| `Mood Meal Generation/` | Mood-based meal generator using machine learning |
+| `Student Score Prediction/` | Student score prediction using XGBoost deployed on AWS SageMaker |
 
 ---
 
@@ -30,9 +31,9 @@ and more..
 Example: Streamlit Car Price Predictor
 
 ```bash
-cd car-price-predictor/
+cd "Car Price Prediction/"
 pip install -r requirements.txt
-streamlit run streamlit_app.py
+streamlit run app.py
 ```
 
 ---
